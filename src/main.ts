@@ -8,4 +8,4 @@ const app = createApp(App)
 
 app.use(pinia)
 app.use(VueSocialSharing);
-app.mount('#app')
+app.mount('#test')
